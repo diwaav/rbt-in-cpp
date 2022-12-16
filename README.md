@@ -1,7 +1,4 @@
-# PA8: RED BLACK TREES (C++)
-Diwa Ashwini Vittala    
-dashwini
-
+# RED BLACK TREES (C++) [CSE 101]
 ## Assignment details
 The WordFrequency file checks the frequency of a word and adds it to a RBT. Order is the same as PA7.    
 
