@@ -1,6 +1,6 @@
 # RED BLACK TREES (C++) [CSE 101]
 ## Assignment details
-The WordFrequency file checks the frequency of a word and adds it to a RBT. Order is the same as PA7.    
+The WordFrequency file checks the frequency of a word and adds it to a RBT.    
 
 ## Folder details
 Dictionary.h    
